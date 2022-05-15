@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "@windicss/plugin-animations": "^1.0.9",
+    "@windicss/plugin-question-mark": "^0.1.1",
+    "nuxt": "3.0.0-rc.3",
+    "nuxt-windicss": "^2.3.1"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
