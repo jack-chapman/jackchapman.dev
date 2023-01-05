@@ -17,5 +17,10 @@
       href="https://twitter.com/jackchapman093"
       >Twitter</a
     ><br />
+    and
+    <NuxtLink to="/blog">
+      <span class="text-blush hover:underline">Writing posts</span>
+    </NuxtLink>
+    on this site...
   </ModuleBase>
 </template>
