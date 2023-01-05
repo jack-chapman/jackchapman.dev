@@ -1,6 +1,6 @@
 <template>
   <div
-    class="grid grid-cols-[repeat(4,100px)] grid-rows-[repeat(3,100px)] border border-pale"
+    class="grid grid-cols-[repeat(4,80px)] lg:grid-cols-[repeat(4,100px)] grid-rows-[repeat(3,80px)] lg:grid-rows-[repeat(3,100px)] border border-pale"
   >
     <LetterColumn :chars="['J', 'C', 'M']" delay="0ms" />
     <LetterColumn :chars="['A', 'H', 'A']" delay="500ms" />
