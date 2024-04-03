@@ -11,7 +11,7 @@
     "@types/lodash-es": "^4.17.6",
     "@windicss/plugin-animations": "^1.0.9",
     "@windicss/plugin-question-mark": "^0.1.1",
-    "nuxt": "^3.0.0",
+    "nuxt": "^3.11.1",
     "nuxt-windicss": "^2.6.0",
     "sass": "^1.57.1"
   },
