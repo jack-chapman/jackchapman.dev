@@ -1,8 +1,8 @@
 <template>
-  <div class="overflow-hidden h-60 lg:h-75 relative w-full">
+  <div class="overflow-hidden h-60 lg:h-[300px] relative w-full">
     <ul class="absolute left-0 custom-animation w-full">
       <li v-for="(char, i) of fullList" :key="i" :class="bg()"
-        class="text-pale h-20 lg:h-25 font-mono list-none grid place-items-center w-full border border-pale transition-colors">
+        class="text-pale h-20 lg:h-[100px] font-mono list-none grid place-items-center w-full border border-pale transition-colors">
         <h2 class="text-4xl">
           {{ char }}
         </h2>
